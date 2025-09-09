@@ -1,0 +1,9 @@
+---
+title: "Penguins Analysis"
+author: "Your Name"
+output: html_document
+---
+
+# Introduction
+
+This report explores the Palmer Penguins dataset.
