@@ -7,6 +7,7 @@ source("R/setup.R")   # ensures packages are installed/loaded
 library(palmerpenguins)
 library(dplyr)
 library(ggplot2)
+library(tidyverse)
 
 # Load data
 data("penguins")
